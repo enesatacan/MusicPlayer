@@ -54,7 +54,7 @@ Changes the control icon to "pause" ▶️➡️⏸️.
 
 1️⃣ Clone the repository:
 
-git clone [https://github.com/enesatacan/Notification-App](https://github.com/enesatacan/MusicPlayer)
+git clone https://github.com/enesatacan/MusicPlayer
 
 
 ![image](https://github.com/user-attachments/assets/de601eb1-32ca-491f-af1b-34ada9a182f5)
